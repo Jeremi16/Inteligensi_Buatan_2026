@@ -4,9 +4,9 @@ Implementasi UCS, IDS, GBFS, dan A* untuk rute GU (Gerbang Utama) → LK (Lab Ko
 
 ## Isi repo
 - `search_kampus.py` — program utama (graf 12 simpul / 19 edge, h(n) sesuai soal, tie-break alfabetis)
-- `TugasKelompok_Rx_nim1_nim2_nim3.docx` — draf laporan yang bisa diedit (sudah termasuk revisi Bab 2b: jalur 16 vs 17)
-- `TugasKelompok_Rx_nim1_nim2_nim3.pdf` — versi PDF
-- `buat_docx.py`, `buat_laporan.py` — generator laporan
+- `TugasKelompok_Rx_nim1_nim2_nim3_v2.docx` — laporan final 8 bab yang bisa diedit (Deskripsi Kasus, Tujuan, Metode, Hasil, Analisis, Kesimpulan, Daftar Pustaka, Lampiran)
+- `TugasKelompok_Rx_nim1_nim2_nim3_v2.pdf` — versi PDF 8 bab
+- `buat_docx.py`, `buat_laporan.py` — generator laporan 8 bab
 
 ## Cara jalan
 ```bash
